@@ -1,11 +1,21 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
+	<a href="https://dashgl.com">
+		<img alt="DashGL" src="./src/images/green-logo.png" width="60" />
+	</a>
 </p>
+
 <h1 align="center">
-  Gatsby minimal TypeScript starter
+  DashGL Project
 </h1>
+
+## Layout
+
+<p align="center">
+	<img alt="DashGL" src="./src/images/blockout-landing.png" width="45%" />
+	<img alt="DashGL" src="./src/images/blockout-tutorials.png" width="45%" />
+	<img alt="DashGL" src="./src/images/blockout-blog.png" width="45%" />
+	<img alt="DashGL" src="./src/images/blockout-blog-post.png" width="45%" />
+</p>
 
 ## 🚀 Quick start
 

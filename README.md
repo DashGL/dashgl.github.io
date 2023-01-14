@@ -23,12 +23,22 @@ The layout of DashGL is broken down into three main pages.
 Note that there is also a selection for tutorials, but with the current limited selection of
 tutorials, this functionality likely isn't required at this point in time. 
 
-<p align="center">
-	<img alt="DashGL" src="./src/images/blockout-landing.png" width="20%" />
-	<img alt="DashGL" src="./src/images/blockout-tutorials.png" width="20%" />
-	<img alt="DashGL" src="./src/images/blockout-blog.png" width="20%" />
-	<img alt="DashGL" src="./src/images/blockout-blog-post.png" width="20%" />
-</p>
+<table width='100%'>
+<tr>
+	<td valign="center">
+		<img alt="DashGL" src="./src/images/blockout-landing.png" />
+	</td>
+	<td valign="center">
+		<img alt="DashGL" src="./src/images/blockout-tutorials.png"/>
+	</td>
+	<td valign="center">
+		<img alt="DashGL" src="./src/images/blockout-blog.png" />
+	</td>
+	<td valign="center">
+		<img alt="DashGL" src="./src/images/blockout-blog-post.png" />
+	</td>
+</tr>
+</table>
 
 ## 🚀 Quick start
 

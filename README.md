@@ -25,16 +25,16 @@ tutorials, this functionality likely isn't required at this point in time.
 
 <table width='100%'>
 <tr>
-	<td valign="center">
+	<td valign="top">
 		<img alt="DashGL" src="./src/images/blockout-landing.png" />
 	</td>
-	<td valign="center">
+	<td valign="top">
 		<img alt="DashGL" src="./src/images/blockout-tutorials.png"/>
 	</td>
-	<td valign="center">
+	<td valign="top">
 		<img alt="DashGL" src="./src/images/blockout-blog.png" />
 	</td>
-	<td valign="center">
+	<td valign="top">
 		<img alt="DashGL" src="./src/images/blockout-blog-post.png" />
 	</td>
 </tr>
